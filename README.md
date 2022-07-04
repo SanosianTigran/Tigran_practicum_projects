@@ -12,5 +12,5 @@
 7. [`startup_behavioral_case`](https://github.com/SanosianTigran/Tigran_practicum_projects/tree/main/startup%20_behavioral_case) - кейс про изучение поведения пользователей мобильного приложения. В работе построена и проанализирована воронка событий, через которую проходит пользователь, проведен A/B тест.
 8. [`telecom_choose_tariff`](https://github.com/SanosianTigran/Tigran_practicum_projects/tree/main/telecom_choose_tariff) - кейс про выбор оптимального мобильного тарифа оператора сотовой связи. В работе проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов.
 
-[README .md](https://github.com/SanosianTigran/Tigran_practicum_projects/files/9039051/README.md)
+
 
